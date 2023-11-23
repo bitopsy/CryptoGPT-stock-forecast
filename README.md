@@ -4,6 +4,6 @@
 
 
 
-## The content of this website is for educational purposes and is not a financial advice
+*The content of this website is for educational purposes and is not a financial advice*
 
-ℹ️ This model has been trained on the past 6 years of data until November 22nd, 2023 for each of the selected stocks. For a more comprehensive analysis with a different date range, access to thousands of stocks, hundreds of cryptocurrencies, and more up-to-date predictions, please visit our website: https://stock.quu.fr
+This model has been trained on the past 6 years of data until November 22nd, 2023 for each of the selected stocks. For a more comprehensive analysis with a different date range, access to 7500+  stocks and  cryptocurrencies, and more up-to-date predictions, please visit our website: https://stock.quu.fr
